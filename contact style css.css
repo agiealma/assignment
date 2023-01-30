@@ -1,0 +1,18 @@
+h1{
+    padding: 10px;
+    border: 10px dotted fuchsia;
+    margin: 10px;
+    text-align: right;
+    background-color: lime;
+    color: black;
+    font-family: Chilanka;
+}
+p{
+    padding: 10px;
+    border: 10px solid tomato;
+    margin: 10px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-family: Chandas;
+}
